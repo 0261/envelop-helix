@@ -21,3 +21,8 @@ yarn
 ```
 yarn start:dev
 ```
+
+# GraphqiQL
+```
+http://localhost:3000/graphql
+```
